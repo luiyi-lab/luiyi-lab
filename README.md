@@ -1,32 +1,38 @@
 <h1 align="center">paravertv2022-lab</h1>
 
 <p align="center">
-  <strong>Desarrollo de proyectos de IA · Automatización · Seguridad de redes</strong>
+  <strong>Desarrollo web vanilla · Apps de escritorio con Python · Bases de datos MySQL</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/enfoque-IA_y_automatización-8b5cf6" alt="enfoque">
-  <img src="https://img.shields.io/badge/interés-seguridad_de_redes-0ea5e9" alt="seguridad">
+  <img src="https://img.shields.io/badge/web-vanilla_sin_frameworks-E34F26" alt="vanilla">
+  <img src="https://img.shields.io/badge/desktop-Python_+_CustomTkinter-3776AB" alt="desktop">
+  <img src="https://img.shields.io/badge/BD-MySQL-4479A1" alt="mysql">
 </p>
 
 ## 🧠 Sobre mí
 
-Aquí construyo y comparto proyectos de IA, automatización y herramientas de análisis.
-Este perfil es mi laboratorio: cada repositorio documenta un problema real, cómo lo
-resolví y qué aprendí en el camino.
+Construyo proyectos **sin frameworks**: PHP, HTML, CSS y JavaScript puros, donde cada
+línea la escribí yo. Del mismo modo desarrollo aplicaciones de escritorio con Python
+y CustomTkinter, todas conectadas a bases de datos MySQL.
 
-- 🔭 Trabajando en: armar el portafolio y publicar mis primeros proyectos
-- 🌱 Aprendiendo: análisis de redes y seguridad ofensiva/defensiva con Nmap
-- ⚡ Me interesa: aplicar IA y automatización a problemas reales
+- 🔭 Trabajando en: publicar mi portafolio de proyectos web y de escritorio
+- 🧩 Filosofía: **vanilla primero** — dominar los fundamentos antes que las herramientas
+- ⚡ Me interesa: sistemas completos que funcionan de verdad: interfaz, lógica y base de datos
 
-## 🛠️ Stack y herramientas
+## 🛠️ Stack
 
-<!-- Amplía con lo que uses: Python, Docker, etc. -->
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/CustomTkinter-2B5B84?logo=python&logoColor=white" alt="CustomTkinter">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/IA/LLMs-412991" alt="IA">
-  <img src="https://img.shields.io/badge/Nmap-2E7DB2" alt="Nmap">
 </p>
 
 ## 🚀 Proyectos
@@ -34,9 +40,9 @@ resolví y qué aprendí en el camino.
 > 🚧 Primeros proyectos en camino — el portafolio se construye aquí.
 
 <!--
-| Proyecto | Qué hace | Estado |
-|----------|----------|--------|
-| [nombre](enlace) | descripción de una línea | ![estado](https://img.shields.io/badge/-en%20desarrollo-yellow) |
+| Proyecto | Qué hace | Stack | Estado |
+|----------|----------|-------|--------|
+| [nombre](enlace) | descripción de una línea | PHP · MySQL | ![estado](https://img.shields.io/badge/-en%20desarrollo-yellow) |
 -->
 
 ## 📊 Estadísticas
