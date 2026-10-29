@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/web-vanilla_sin_frameworks-E34F26" alt="vanilla">
   <img src="https://img.shields.io/badge/desktop-Python_+_CustomTkinter-3776AB" alt="desktop">
   <img src="https://img.shields.io/badge/BD-MySQL-4479A1" alt="mysql">
+  <img src="https://img.shields.io/badge/desarrollo-apoyado_en_IA-8b5cf6" alt="IA">
 </p>
 
 ## 🧠 Sobre mí
@@ -19,6 +20,8 @@ y CustomTkinter, todas conectadas a bases de datos MySQL.
 - 🔭 Trabajando en: publicar mi portafolio de proyectos web y de escritorio
 - 🧩 Filosofía: **vanilla primero** — dominar los fundamentos antes que las herramientas
 - ⚡ Me interesa: sistemas completos que funcionan de verdad: interfaz, lógica y base de datos
+- 🤖 Flujo de trabajo: **desarrollo apoyado en IA** — la IA acelera y propone; yo diseño,
+  reviso y decido cada línea que entra al proyecto
 
 ## 🛠️ Stack
 
