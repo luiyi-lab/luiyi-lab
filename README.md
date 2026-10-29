@@ -42,7 +42,7 @@ y CustomTkinter, todas conectadas a bases de datos MySQL.
 
 | Proyecto | Qué hace | Stack | Estado |
 |----------|----------|-------|--------|
-| [Maquetador de Libros](https://github.com/luiyi-lab/maquetador-libro) | Convierte manuscritos Markdown/TXT en libros PDF maquetados: detecta la estructura, aplica plantillas y exporta con mPDF (36 tests, PDF validado 6×9") | PHP · Laravel · mPDF · MySQL | ![MVP](https://img.shields.io/badge/-MVP_completo-2ea44f) |
+| [Maquetador de Libros](https://github.com/luiyi-lab/maquetador-libro) | Convierte manuscritos Markdown/TXT en libros PDF maquetados: detecta la estructura, aplica plantillas y exporta con mPDF (36 tests, PDF validado 6×9") | PHP · Laravel · mPDF · MySQL | ![En desarrollo](https://img.shields.io/badge/-en_desarrollo_activo-yellow) |
 
 > 🚧 Más proyectos en camino.
 
