@@ -1,4 +1,4 @@
-<h1 align="center">paravertv2022-lab</h1>
+<h1 align="center">luiyi-lab</h1>
 
 <p align="center">
   <strong>Desarrollo web vanilla · Apps de escritorio con Python · Bases de datos MySQL</strong>
@@ -51,8 +51,8 @@ y CustomTkinter, todas conectadas a bases de datos MySQL.
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paravertv2022-lab&show_icons=true&locale=es&hide_border=true" alt="estadísticas GitHub" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paravertv2022-lab&layout=compact&locale=es&hide_border=true&langs_count=6" alt="lenguajes" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiyi-lab&show_icons=true&locale=es&hide_border=true" alt="estadísticas GitHub" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiyi-lab&layout=compact&locale=es&hide_border=true&langs_count=6" alt="lenguajes" height="160">
 </p>
 
 <!-- 📫 Contacto: si quieres un canal, crea un correo específico para este perfil
