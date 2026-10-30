@@ -42,6 +42,7 @@ y CustomTkinter, todas conectadas a bases de datos MySQL.
 
 | Proyecto | Qué hace | Stack | Estado |
 |----------|----------|-------|--------|
+| [Titan Downloader](https://github.com/luiyi-lab/titan-downloader) | Descargador de escritorio: YouTube/Spotify/TikTok → MP3/MP4 con cola persistente, reintentos y cadena de motores de respaldo | Python · PySide6 · yt-dlp | ![En desarrollo](https://img.shields.io/badge/-en_desarrollo_activo-yellow) |
 | [Maquetador de Libros](https://github.com/luiyi-lab/maquetador-libro) | Convierte manuscritos Markdown/TXT en libros PDF maquetados: detecta la estructura, aplica plantillas y exporta con mPDF (36 tests, PDF validado 6×9") | PHP · Laravel · mPDF · MySQL | ![En desarrollo](https://img.shields.io/badge/-en_desarrollo_activo-yellow) |
 
 > 🚧 Más proyectos en camino.
