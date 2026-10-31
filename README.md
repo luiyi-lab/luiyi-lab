@@ -42,6 +42,7 @@ y CustomTkinter, todas conectadas a bases de datos MySQL.
 
 | Proyecto | Qué hace | Stack | Estado |
 |----------|----------|-------|--------|
+| [YT Music Lite](https://github.com/luiyi-lab/yt-music-lite) | Reproductor de YouTube Music para equipos modestos (Win 8.1/Atom/2GB): catálogo de YT Music, álbumes y playlists, mpv oculto por IPC, biblioteca local | Python · Tkinter · mpv · ytmusicapi | ![En desarrollo](https://img.shields.io/badge/-en_desarrollo_activo-yellow) |
 | [Titan Downloader](https://github.com/luiyi-lab/titan-downloader) | Descargador de escritorio: YouTube/Spotify/TikTok → MP3/MP4 con cola persistente, reintentos y cadena de motores de respaldo | Python · PySide6 · yt-dlp | ![En desarrollo](https://img.shields.io/badge/-en_desarrollo_activo-yellow) |
 | [Maquetador de Libros](https://github.com/luiyi-lab/maquetador-libro) | Convierte manuscritos Markdown/TXT en libros PDF maquetados: detecta la estructura, aplica plantillas y exporta con mPDF (36 tests, PDF validado 6×9") | PHP · Laravel · mPDF · MySQL | ![En desarrollo](https://img.shields.io/badge/-en_desarrollo_activo-yellow) |
 
